@@ -1,0 +1,37 @@
+[
+  {
+    "version": "1.0.1",
+    "tag": "UPDATE",
+    "date": "17/09",
+    "title": "Patch 1.0.1",
+    "sections": [
+      {
+        "heading": "Novidades",
+        "items": [
+          "Exemplo de novidade adicionada nesta atualização.",
+          "Outra novidade que você quer avisar aos jogadores."
+        ]
+      },
+      {
+        "heading": "Correções",
+        "items": [
+          "Exemplo de bug corrigido."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.0.0",
+    "tag": "UPDATE",
+    "date": "10/09",
+    "title": "Patch 1.0.0 - Lançamento",
+    "sections": [
+      {
+        "heading": "Lançamento",
+        "items": [
+          "Primeira versão pública do jogo!"
+        ]
+      }
+    ]
+  }
+]
